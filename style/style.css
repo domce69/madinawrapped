@@ -1,0 +1,36 @@
+/* Stylesheet for html pages */
+
+.index-centre-div-logo{
+    max-width: fit-content;
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.index-centre-div-btn {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type: none;
+}
+
+body {
+    background-color: #ffcafd;
+}
+
+.indexlogo {
+    width: 600px;
+    height: 250px;
+    align-self: auto;
+}
+
+.ulbutton {
+    font-size: 18px;
+    color: azure;
+    background-image: url('../img/pixel-button.png');
+    overflow: hidden;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 75px;
+}
+
+/* ANIMATIONS */
